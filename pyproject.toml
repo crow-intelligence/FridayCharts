@@ -1,0 +1,13 @@
+[project]
+name = "fridaycharts"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "ipywidgets>=8.1.6",
+    "jupyter-summarytools>=0.2.3",
+    "notebook>=7.4.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+]
