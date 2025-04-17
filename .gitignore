@@ -175,3 +175,6 @@ cython_debug/
 
 data/
 .idea/
+
+notebooks/tmp
+notebooks/.ipynb_checkpoints
