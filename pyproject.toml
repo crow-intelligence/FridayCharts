@@ -7,9 +7,13 @@ dependencies = [
     "altair>=5.5.0",
     "ipywidgets>=8.1.6",
     "jupyter-summarytools>=0.2.3",
+    "networkx>=3.4.2",
     "notebook>=7.4.0",
     "openpyxl>=3.1.5",
     "pandas>=2.2.3",
+    "rdflib>=7.1.4",
+    "requests>=2.32.3",
+    "sparqlwrapper>=2.0.0",
 ]
 
 [dependency-groups]
