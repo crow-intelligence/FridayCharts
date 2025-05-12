@@ -178,3 +178,5 @@ data/
 
 notebooks/tmp
 notebooks/.ipynb_checkpoints
+
+output/
